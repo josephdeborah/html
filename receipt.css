@@ -1,0 +1,27 @@
+.id{
+    border:3px solid black;width:10cm;height: 134px;
+}
+.er{
+    border: 3px solid black;width:100cm;
+}
+.label{
+    ruby-span: initial;
+}
+table,td,th{
+    border: 1px solid black;border-collapse: collapse;
+}
+th{
+    background-color: darkred;
+}
+.re{
+    /* display: flex;align-items: flex-start;margin-top:-7px;margin-left:10.5cm; */
+}
+.c{
+    /* width: 2cm; */
+}
+.e{
+    /* display: flex;align-items: flex-start;margin-top:-0.3cm;margin-left:10.5cm; */
+}
+.g{
+    border:3px solid black;width:10cm;height:100px;
+}

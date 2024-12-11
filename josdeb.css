@@ -1,0 +1,8 @@
+}
+nav>ul::after{
+    content: 'normal ';
+    display: block;
+    clear: both;   }
+body{
+    /* background-color: blueviolet; */
+}

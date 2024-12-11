@@ -1,0 +1,38 @@
+div{
+    /* border: 1px solid black; */
+     margin-left: 20 cm; 
+    width:250px;text-align:center;
+    padding: 32px;
+    width: 250px;
+    size: 12px;
+}
+label{
+    font-size: 30px;padding-left: 0; margin-left: 3px;
+}
+input{
+    font-size:30px;padding-left:9cm;
+}
+p{
+    font-size: 35px;padding-left: 2cm;
+}
+.dear{
+    text-align: 12px;
+}
+body{
+    width:100px;
+    text-align: center;
+    overflow: hidden;
+}
+
+@media screen and(max-width:500px) {div{
+    /* border: 1px solid black; */
+     margin-left: 20 cm; 
+    width:250px;text-align:center;
+    padding: 32px;
+    width: 250px;
+    size: 12px;
+}
+
+    
+}
+

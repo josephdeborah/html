@@ -1,0 +1,26 @@
+table,th,td{
+    border: 3px solid black;
+    border-collapse: collapse;
+}
+th,td{
+    padding: 1rem;
+}
+table{
+    margin-left: 32px;
+}
+th{
+    background-color: aqua;
+}
+.day{
+    background-color: blue;
+}
+#ti{
+    background-color: brown;
+}
+  .fan{
+    background-color: cadetblue;
+  }  
+.dan{
+    background-color: darkgreen;
+}
+
